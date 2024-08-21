@@ -3,3 +3,5 @@ temp
 build
 tags
 .env
+.idea
+example.json
